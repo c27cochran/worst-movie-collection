@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+}
+
+.bold-text {
+  font-weight: bold;
+}
+
+/* Movies List*/
+.movie-list-item {
+  background-color: white;
+  margin: 10px;
+  align-items: left;
+  text-align: left;
+}
+
+
+/* Movie View */
+.movie-container {
+  margin: 15px; 
+  text-align: left;
+  background-color: white;
+}
+
+.movie-about {
+  padding: 5px;
+  border-width: 0px 1px 1px 1px;
+  border-style: solid;
+  border-color: #333;
+}
+
+.title-date{
+  color: white;
+  background-color: #333;
+  padding: 15px;
+}
+
+/* Add Movie Form */
+.form-container {
+  align-items: left;
+  background-color: white;
+  padding: 20px;
+}
+
+/* Loading */
+.loading-container {
+  padding: 15px;
+}
